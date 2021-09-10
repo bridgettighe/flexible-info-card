@@ -2,6 +2,7 @@ html {
 background-color: lightgrey;
 font-family: sans-serif;
 box-sizing: border-box;
+line-height: 1.5;
 }
 
 img {
