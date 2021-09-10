@@ -2,6 +2,7 @@ html {
 background-color: lightgrey;
 font-family: sans-serif;
 line-height: 1.5;
+box-sizing: border-box;
 }
 
 img {
@@ -11,5 +12,9 @@ img {
 
 li {
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+}
+
+a {
+  border-color: #444;
 }
