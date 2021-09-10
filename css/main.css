@@ -16,4 +16,9 @@ li {
 
 a {
   border-color: #444;
+  margin-left: 2rem;
+}
+
+p {
+  margin-left: 1rem;
 }
