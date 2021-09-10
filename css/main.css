@@ -4,9 +4,11 @@ font-family: sans-serif;
 line-height: 1.5;
 }
 
-head {
-  align-content: center;
-}
 img {
   width: 5rem;
+  margin: 1.5rem;
+}
+
+li {
+  display: flex;
 }
