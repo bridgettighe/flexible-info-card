@@ -1,10 +1,12 @@
 html {
 background-color: lightgrey;
+font-family: sans-serif;
+line-height: 1.5;
 }
 
 head {
   align-content: center;
 }
 img {
-  width: 6rem;
+  width: 5rem;
 }
