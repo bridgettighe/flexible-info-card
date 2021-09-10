@@ -17,8 +17,9 @@ li {
 }
 
 a {
-  border-color: #444;
-padding: 2rem;
+  color: lightgrey;
+  background-color: #444;
+  text-decoration: none;
 }
 
 p {
@@ -27,4 +28,12 @@ padding: 0.6rem;
 
 h3 {
 padding: 1rem;
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+
 }
