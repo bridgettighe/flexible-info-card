@@ -1,7 +1,7 @@
 html {
-background-color: lightgrey;
-font-family: sans-serif;
-box-sizing: border-box;
+  box-sizing: border-box;
+background-color: #ccc;
+font-family: "Open Sans", sans-serif;
 line-height: 1.5;
 }
 
@@ -10,22 +10,46 @@ line-height: 1.5;
 }
 
 img {
-  width: 100%;
-  padding-bottom: 2rem;
-  line-height: 0.5;
+  width: 5rem;
+  margin-left: -1.5rem;
+  margin-right: 1.5rem;
+}
+
+body {
+margin: 0;
+}
+
+section {
+  margin: 1.5rem;
+}
+
+hgroup {
+  width: 24rem;
+  justify-content: space-between;
+}
+
+p {
+  margin-left: -5rem;
 }
 
 li {
   display: flex;
-  flex-direction: row;
-}
-
-h3 {
-padding: 1rem;
+  justify-content: space-between;
+align-items: center;
+margin: 1.5rem;
 }
 
 a {
   color: lightgrey;
   background-color: #444;
   text-decoration: none;
+padding: .5rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-bottom: -1.5rem;
 }
