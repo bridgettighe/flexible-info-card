@@ -12,6 +12,7 @@ line-height: 1.5;
 img {
   width: 5rem;
   padding-bottom: 2rem;
+  line-height: 0.5;
 }
 
 li {
