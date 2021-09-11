@@ -5,11 +5,14 @@ box-sizing: border-box;
 line-height: 1.5;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 img {
   width: 5rem;
   padding-bottom: 2rem;
 padding: 0.5rem;
-align-items: flex-start;
 }
 
 li {
@@ -23,4 +26,10 @@ padding: 0.6rem;
 
 h3 {
 padding: 1rem;
+}
+
+a {
+  color: lightgrey;
+  background-color: #444;
+  text-decoration: none;
 }
