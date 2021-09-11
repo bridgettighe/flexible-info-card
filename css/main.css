@@ -1,8 +1,6 @@
 html {
 background-color: lightgrey;
 font-family: sans-serif;
-box-sizing: border-box;
-line-height: 1.5;
 }
 
 img {
@@ -29,4 +27,3 @@ padding: 0.6rem;
 h3 {
 padding: 1rem;
 }
-@media only screen and (min-width: 40em) {
