@@ -5,6 +5,10 @@ box-sizing: border-box;
 line-height: 1.5;
 }
 
+body {
+  justify-content: flex-start;
+}
+
 img {
   width: 5rem;
   padding-bottom: 2rem;
@@ -20,4 +24,12 @@ a {
   color: lightgrey;
   background-color: #444;
   text-decoration: none;
+}
+
+p {
+padding: 0.6rem;
+}
+
+h3 {
+padding: 1rem;
 }
