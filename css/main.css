@@ -10,7 +10,8 @@ img {
 }
 
 li {
-
+  display: flex;
+  flex-direction: row;
 }
 
 a {
