@@ -6,7 +6,9 @@ line-height: 1.5;
 }
 
 img {
-
+  width: 5rem;
+  padding-bottom: 2rem;
+padding: 0.5rem;
 }
 
 li {
@@ -18,12 +20,4 @@ a {
   color: lightgrey;
   background-color: #444;
   text-decoration: none;
-}
-
-p {
-padding: 0.6rem;
-}
-
-h3 {
-padding: 1rem;
 }
