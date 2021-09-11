@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
-background-color: #ccc;
-font-family: "Open Sans", sans-serif;
-line-height: 1.5;
+  background-color: #ccc;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -16,7 +16,7 @@ img {
 }
 
 body {
-margin: 0;
+  margin: 0;
 }
 
 section {
@@ -35,15 +35,15 @@ p {
 li {
   display: flex;
   justify-content: space-between;
-align-items: center;
-margin: 1.5rem;
+  align-items: center;
+  margin: 1.5rem;
 }
 
 a {
   color: lightgrey;
   background-color: #444;
   text-decoration: none;
-padding: .5rem;
+  padding: .5rem;
 }
 
 h2 {
