@@ -6,7 +6,7 @@ line-height: 1.5;
 }
 
 img {
-  width: 24rem;
+  width: 5rem;
   padding-bottom: 2rem;
 padding: 0.5rem;
 }
@@ -14,12 +14,6 @@ padding: 0.5rem;
 li {
   display: flex;
   flex-direction: row;
-}
-
-a {
-  color: lightgrey;
-  background-color: #444;
-  text-decoration: none;
 }
 
 p {
